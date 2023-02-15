@@ -88,7 +88,7 @@
   padding:1.5rem 1rem;
   justify-content: center;
   background-color: rgb(169, 151, 84);
-  border-radius: 5px;
+  border-radius: 20px;
 }
 .menu .main1 h3{
   padding-left: 2rem;
@@ -98,7 +98,7 @@
 .menu .main1 .row{
   display: flex;
   justify-content: space-evenly;
-  margin: 2rem 3rem;
+  margin: 2rem 3rem 1rem;
   padding-left: 4rem;
  
 }
